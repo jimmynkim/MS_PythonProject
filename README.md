@@ -1,6 +1,6 @@
 # MS_PythonProject
 
-> AI18기 파이썬 프로젝트 — Python 데이터 처리 언어 활용 역량 실습 저장소
+> Python 데이터 처리 언어 활용 역량 실습 저장소
 
 ---
 
